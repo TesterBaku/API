@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5045" started-at="2020-06-29T06:37:13Z" finished-at="2020-06-29T06:37:18Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5045" started-at="2020-06-29T06:37:13Z" finished-at="2020-06-29T06:37:18Z">
+      <class name="com.rest.api.get.GETBDDAPI">
+        <test-method status="PASS" signature="getUserResponseXml_Test()[pri:0, instance:com.rest.api.get.GETBDDAPI@3ffc5af1]" name="getUserResponseXml_Test" duration-ms="5011" started-at="2020-06-29T06:37:13Z" finished-at="2020-06-29T06:37:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getUserResponseXml_Test -->
+      </class> <!-- com.rest.api.get.GETBDDAPI -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
